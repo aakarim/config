@@ -8,6 +8,7 @@ endif
 call plug#begin('~/.vim/plugged')
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'JamshedVesuna/vim-markdown-preview'
+Plug 'StanAngeloff/php.vim'
 call plug#end()
 " End plugins
 
