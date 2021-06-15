@@ -9,6 +9,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'JamshedVesuna/vim-markdown-preview'
 Plug 'StanAngeloff/php.vim'
+Plug 'preservim/nerdcommenter'
 call plug#end()
 " End plugins
 
