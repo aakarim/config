@@ -19,7 +19,7 @@ let vim_markdown_preview_github=1
 " Go Specific mappings
 nmap <C-C> :GoImports <CR>
 
-
+syntax enable
 set tabstop=2
 set shiftwidth=2
 set number
