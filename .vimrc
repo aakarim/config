@@ -23,6 +23,10 @@ Plug 'prabirshrestha/asyncomplete.vim'
 Plug 'prabirshrestha/vim-lsp'
 Plug 'preservim/nerdcommenter'
 Plug 'vim-ctrlspace/vim-ctrlspace'
+Plug 'prettier/vim-prettier', {
+  \ 'do': 'yarn install --frozen-lockfile --production',
+  \ 'branch': 'release/0.x'
+  \ }
 call plug#end()
 " End plugins
 
