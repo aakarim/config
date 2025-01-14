@@ -2,6 +2,7 @@ syntax enable
 set tabstop=2
 set shiftwidth=2
 set number
+set relativenumber
 set ruler
 " required by ctrlspace
 set nocompatible
@@ -27,6 +28,7 @@ Plug 'prettier/vim-prettier', {
   \ 'do': 'yarn install --frozen-lockfile --production',
   \ 'branch': 'release/0.x'
   \ }
+Plug 'tpope/vim-surround'
 call plug#end()
 " End plugins
 
