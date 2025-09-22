@@ -1,0 +1,3 @@
+theme = light:Novel,dark:Ghostty Default Style Dark
+font-family = Consolas
+keybind = global:cmd+shift+t=toggle_quick_terminal
