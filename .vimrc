@@ -29,6 +29,8 @@ Plug 'prettier/vim-prettier', {
   \ 'branch': 'release/0.x'
   \ }
 Plug 'tpope/vim-surround'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf.vim'
 call plug#end()
 " End plugins
 

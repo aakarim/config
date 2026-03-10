@@ -1,0 +1,15 @@
+{
+  "repos": [
+    {
+      "url": "https://github.com/ampcode/amp-contrib",
+      "branch": "main",
+      "skills_path": ".agents/skills",
+      "skills": [
+        "ampdo",
+        "ast-grep",
+        "tmux",
+        "ui-preview"
+      ]
+    }
+  ]
+}

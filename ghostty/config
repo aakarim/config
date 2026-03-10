@@ -1,3 +1,4 @@
-theme = light:Novel,dark:Ghostty Default Style Dark
+theme = light:Novel,dark:Builtin Dark
 font-family = Consolas
 keybind = global:cmd+shift+t=toggle_quick_terminal
+bell-features = system, attention, title
